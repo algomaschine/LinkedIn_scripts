@@ -14,9 +14,6 @@ import logging
 # SEARCH_URL = "https://www.linkedin.com/vsearch/p?openFacets=N,G,CC&orig=FCTD&f_N=F"
 DIALOG_URL = 'https://www.linkedin.com/messaging/'
 
-EMAIL = "izembo.ri@gmail.com"
-PASSWORD = "ismar007"
-
 # EMAIL = "goloveychuk@mail.ru"
 # PASSWORD = ""
 
