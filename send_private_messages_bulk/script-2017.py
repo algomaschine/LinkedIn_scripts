@@ -33,8 +33,7 @@ DIALOG_URL = 'https://www.linkedin.com/messaging/'
 EMAIL = "zdex.ru"
 PASSWORD = "sdd@"
 
-#EMAIL = "izembo.ri@gmail.com"
-#PASSWORD = "ismar007"
+
 
 
 
